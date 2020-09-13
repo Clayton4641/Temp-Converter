@@ -1,2 +1,2 @@
 # Temp-Converter
-Temperature converter in Python using Tkinker
+Temperature Converter is a simple program that I wrote when learning about the TKinker module for Python. The program can convert Fahrenheit to Celsius and the inverse. This was made in a few hours and was my first GUI program ever made. The idea for the program came from the tutorial that I was following as it suggested it as a challenge/practice problem. I modified it a bit by adding the ability to swap the conversion.
